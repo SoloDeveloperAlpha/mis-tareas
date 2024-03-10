@@ -1,0 +1,11 @@
+.contenedor-lst{
+  min-width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1em;
+}
+.tareas-lista-contenedor{
+  width: 100%;
+}

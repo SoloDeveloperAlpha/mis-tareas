@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mis-tareas/build/static/css/main.8fd46ed1.css",
+    "main.js": "/mis-tareas/build/static/js/main.16bf0755.js",
+    "index.html": "/mis-tareas/build/index.html",
+    "main.8fd46ed1.css.map": "/mis-tareas/build/static/css/main.8fd46ed1.css.map",
+    "main.16bf0755.js.map": "/mis-tareas/build/static/js/main.16bf0755.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fd46ed1.css",
+    "static/js/main.16bf0755.js"
+  ]
+}
